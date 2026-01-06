@@ -1,5 +1,6 @@
 # Movie_Recomendation_System
 We will use GenAi model like google grmni to suggest  a movie similar to user input
+<<<<<<< HEAD
 
 # How Does it Works:
 Sign in to github
@@ -44,3 +45,5 @@ so python-dotenv, langchaiin
 31) git push origin main
 32) GO to streamlit and login using GitHub , click on create app
 
+=======
+>>>>>>> 81afbcad9d01cd19ad7085b08d7e5ae3c55b7e5e
